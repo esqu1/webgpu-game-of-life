@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "types": [
+            "@webgpu/types"
+        ],
+        "target": "ES2021",
+        "module": "ES2022"
+    }
+}
