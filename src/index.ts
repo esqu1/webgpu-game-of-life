@@ -1,5 +1,5 @@
-import shaderCode from './shaders.wgsl'
-import computeCode from './gameoflife.compute.wgsl'
+import shaderCode from '../shaders/shaders.wgsl'
+import computeCode from '../shaders/gameoflife.compute.wgsl'
 
 const vertices = new Float32Array([
     //   X,    Y,
